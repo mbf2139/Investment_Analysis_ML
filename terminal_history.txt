@@ -1,0 +1,105 @@
+  950  git status
+  951  git add -A
+  952  git status
+  953  git commit -m "analyzed portfolio returns"
+  954  git status
+  955  git add -A
+  956  git commit -m "fixed joining statement"
+  957  git status
+  958  git add -A
+  959  git commit -m "fixed visualization"
+  960  git status
+  961  git add -A
+  962  git commit -m "fixed calcs"
+  963  git status
+  964  git add -A
+  965  git commit -m "modified ipynb file and addes images for readme"
+  966  cd etf_analyzer
+  967  git status
+  968  git add -A
+  969  git status
+  970  git commit -m "added readme"
+  971  git push
+  972  git status
+  973  git add -A
+  974  git status
+  975  git status
+  976  git add -A
+  977  git status
+  978  rm .DS_Store
+  979  git status
+  980  rm NYC-PropTech-Final/.DS_Store
+  981  git status
+  982  git add -A
+  983  git status
+  984  git commit -m "edited readme"
+  985  git push
+  986  conda activate dex
+  987  conda activate dev
+  988  pip install python-dotenv install fbprophet
+  989  conda install -c anaconda ephem
+  990  conda install -c conda-forge pystan
+  991  conda install -c conda-forge fbprophet
+  992  conda list pystan
+  993  pip install --upgrade pystan
+  994  conda list pystan
+  995  cd ..
+  996  conda install -c conda-forge imbalanced-learn
+  997  conda list imbalanced-learn
+  998  conda list pystan
+  999  conda install -c conda-forge pydotplus
+ 1000  conda list pydotplus
+ 1001  cd desktop
+ 1002  cd fintech-workspace
+ 1003  cd class_folder
+ 1004  git pull
+ 1005  cd ..
+ 1006  git clone git@github.com:mbf2139/Investment_Analysis_ML.git
+ 1007  cd Investment_Analysis_ML
+ 1008  ls
+ 1009  cd gitignore
+ 1010  open .
+ 1011  git status
+ 1012  git add -A
+ 1013  git status
+ 1014  git commit -m "updated gitignore file"
+ 1015  git status
+ 1016  git add -A
+ 1017  git staus
+ 1018  git status
+ 1019  git commit -m "Added starter files"
+ 1020  git status
+ 1021  git add -A
+ 1022  git status
+ 1023  git commit -m "saveing progress on data cleaning"
+ 1024  git status
+ 1025  git add -A
+ 1026  git status
+ 1027  git commit -m "saving k4 model'\n"
+ 1028  git status
+ 1029  git stats=us
+ 1030  git status
+ 1031  git add - A
+ 1032  git add -A
+ 1033  git status
+ 1034  git commit -m "saving PCA optimal clusters and k"
+ 1035  git status
+ 1036  git add -A
+ 1037  git status
+ 1038  git commit -m "saving PCA clusters and optimal k"
+ 1039  git status
+ 1040  git status
+ 1041  git add -A
+ 1042  git status
+ 1043  git commit -m "saving PCA scatter plot"
+ 1044  git status
+ 1045  git add -A
+ 1046  git status
+ 1047  git commit -m "saving composite plots and final analysis"
+ 1048  git status
+ 1049  list conda
+ 1050  git status
+ 1051  git add -A
+ 1052  git status
+ 1053  git commit -m "added images folder and updated readme"
+ 1054  history 1100 > terminal_history.txt
