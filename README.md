@@ -28,8 +28,9 @@ This app leverages python 3.8 with the following technologies
             '''
             python
             pip install pathlib
-            
+            conda install -c conda-forge scikit-learn
             conda install -c pyviz hvplot
+            '''
  
  3. Data is contained in the ***Resources*** folder and intercangeable with data of user's choice '''
  
